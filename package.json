@@ -1,0 +1,11 @@
+{
+  "name": "blogcuatui",
+  "version": "1.0.0",
+  "description": "hi this my blog veryvery xamxidu",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JackieTruong",
+  "license": "ISC"
+}
